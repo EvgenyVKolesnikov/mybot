@@ -1,0 +1,6 @@
+__pycache__/
+bot.log
+*.log
+settings.py
+.vscode/
+env/
